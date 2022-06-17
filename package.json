@@ -1,5 +1,5 @@
 {
-  "name": "el-tree-transfer",
+  "name": "el-v-tree-transfer",
   "version": "0.1.0",
   "private": false,
   "main": "./dist/main.umd.min.js",
