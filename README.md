@@ -2,6 +2,10 @@
 
 ### A tree-transfer based on element-ui、tailwind css.
 
+
+![](screenshot.png)
+
+
 ## usage
 
 ### html

@@ -1,6 +1,6 @@
 {
   "name": "el-v-tree-transfer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "main": "./dist/main.umd.min.js",
   "scripts": {
