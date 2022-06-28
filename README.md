@@ -8,7 +8,7 @@
 
 ## usage
 
-### make sure element-ui has been installed, see https://element.eleme.cn/#/en-US/component/installation
+### make sure [element-ui](https://element.eleme.cn/#/en-US/component/installation) has been installed.
 
 ### html
 ```html
