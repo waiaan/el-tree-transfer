@@ -8,6 +8,8 @@
 
 ## usage
 
+### make sure element-ui has been installed, see https://element.eleme.cn/#/en-US/component/installation
+
 ### html
 ```html
 <template>
