@@ -3,7 +3,7 @@
 ### A tree-transfer based on element-ui、tailwind css.
 
 
-![](screenshot.png)
+![](https://raw.githubusercontent.com/waiaan/ElTreeTransfer/master/screenshot.png)
 
 
 ## usage
@@ -114,7 +114,7 @@ export default {
          // show tranfser buttons,set to [] will transfer on tree node checked.
           funcs: ['allRight', 'right', 'left', 'allLeft'],
           config: {
-            // each button's config, same as element-ui button attributes
+            // each button's config, same as element-ui button attributes, see https://element.eleme.cn/#/en-US/component/button
             allRight: {
               type: 'primary',
               icon: '',
@@ -141,7 +141,7 @@ export default {
             }
           }
         },
-        // tree's props, same as element-ui tree attributes
+        // tree's props, same as element-ui tree attributes, see https://element.eleme.cn/#/en-US/component/tree
         leftTreeProps: {
 
         },
