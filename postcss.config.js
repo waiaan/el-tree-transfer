@@ -1,6 +1,10 @@
-module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {}
+module.exports = (api) => {
+  if (/\.scss$/.test(api.file)) {
+    return {
+      plugins: {
+        tailwindcss: {},
+        autoprefixer: {}
+      }
+    }
   }
 }

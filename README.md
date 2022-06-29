@@ -1,6 +1,6 @@
 # el-tree-transfer
 
-### A tree-transfer based on element-ui、tailwind css.
+### A tree-transfer based on element-ui、tailwindcss.
 
 
 ![](https://raw.githubusercontent.com/waiaan/ElTreeTransfer/master/screenshot.png)
@@ -21,7 +21,10 @@
 
 ### js
 ```js
-import ElTreeTransfer from 'ElTreeTransfer'
+import ElTreeTransfer from 'el-v-tree-transfer'
+// if tailwindcss is not installed, import main.css
+// import "el-v-tree-transfer/lib/main.css";
+
 
 export default {
   components: {

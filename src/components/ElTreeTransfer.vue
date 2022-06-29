@@ -299,5 +299,8 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-
+.el-button--primary {
+  background-color: #409EFF;
+  border-color: #409EFF;
+}
 </style>
